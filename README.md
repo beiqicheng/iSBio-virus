@@ -1,2 +1,2 @@
 # iSBio - soil viruses
-Soil metagenomics from the International Soil Biogeography Consortium (iSBio)
+Soil metagenomics (PRJNA1045969) from the International Soil Biogeography Consortium (iSBio)
