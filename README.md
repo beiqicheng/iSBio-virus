@@ -18,4 +18,3 @@ Repository structure:
 - 03_random_forest.R — variable importance for community structure
 - 04_mantel_env_correlogram.R -testing vOTU/vFunctions composition against environmental variables
 - 05_mantel_distance_decay.R — geographic/elevational/environmental Mantel tests
-- 06_phage_vhr.R — virulent phage abundance and virus-host ratios
