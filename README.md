@@ -36,6 +36,8 @@ Repository structure:
 - 04_mantel_env_correlogram.R -testing vOTU/vFunctions composition against environmental variables
 - 05_mantel_distance_decay.R — geographic/elevational/environmental Mantel tests
 
+The processed vOTU abundance table (`count.txt`) and sample metadata (`isbiometa.txt`) are provided in this repository. These materials reproduce the principal community-diversity, environmental-driver, and spatial analyses reported in the manuscript. Analyses of viral lifestyle, virus–host relationships, and auxiliary metabolic genes are not included in this repository.
+
 License
 
 The analysis code is released under the MIT License. See the LICENSE file
