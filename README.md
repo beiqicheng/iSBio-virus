@@ -12,6 +12,23 @@ Link viruses to predicted hosts: using metagenome-assembled genomes (MAGs), incl
 
 Findings show pronounced ecosystem-level differentiation in viral richness, composition, predicted lifestyle, and virus-host relationships. While soil pH is the strongest overall environmental predictor, its relative importance varies by ecosystem — forest viral communities are predominantly pH-associated, while elevation and soil texture play stronger roles in grasslands.
 
+# System requirements
+
+The analysis workflow was tested using:
+
+- R version 4.5.0
+- Operating system: Windows 11
+- No non-standard hardware is required. Some analyses, particularly random forest analyses and community-distance calculations, may benefit from a computer with sufficient memory.
+
+# R package dependencies
+- phyloseq
+- vegan
+- ggplot2
+- dplyr
+- tidyr
+- readr
+- randomForest  
+
 Repository structure:
 - 01_alpha_beta_diversity.R — Shannon/richness, PCoA, NMDS, PERMANOVA
 - 02_dbRDA_drivers.R — distance-based redundancy analysis
