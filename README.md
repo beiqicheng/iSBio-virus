@@ -35,3 +35,8 @@ Repository structure:
 - 03_random_forest.R — variable importance for community structure
 - 04_mantel_env_correlogram.R -testing vOTU/vFunctions composition against environmental variables
 - 05_mantel_distance_decay.R — geographic/elevational/environmental Mantel tests
+
+License
+
+The analysis code is released under the MIT License. See the LICENSE file
+for details.
